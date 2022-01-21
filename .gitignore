@@ -1,2 +1,8 @@
 # .tex files should be compiled to .pdf
 tex
+
+# .swp files from vim
+*.swp
+
+# Cheat sheet for remembering how to push to git, as well as password
+gitstuff
